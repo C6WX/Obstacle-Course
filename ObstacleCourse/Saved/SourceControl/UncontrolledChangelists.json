@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/2309518/Documents/GitHub/Obstacle-Course/ObstacleCourse/Content/Traps/BP_Pressureplate.uasset",
+				"C:/Users/2309518/Documents/GitHub/Obstacle-Course/ObstacleCourse/Content/Traps/BP_Spikes.uasset",
+				"C:/Users/2309518/Documents/GitHub/Obstacle-Course/ObstacleCourse/Content/Traps/BP_Spike.uasset",
+				"C:/Users/2309518/Documents/GitHub/Obstacle-Course/ObstacleCourse/Content/Traps/BP_DartLauncher.uasset",
 				"C:/Users/2404781/Documents/GitHub/Obstacle-Course/ObstacleCourse/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
