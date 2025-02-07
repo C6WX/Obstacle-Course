@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/2404781/Documents/GitHub/Obstacle-Course/ObstacleCourse/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/2404781/Documents/GitHub/Obstacle-Course/ObstacleCourse/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/2404781/Documents/GitHub/Obstacle-Course/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/2404781/Documents/GitHub/Obstacle-Course/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset",
+				"C:/Users/2404781/Documents/GitHub/Obstacle-Course/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/Z6/WZMYEE1RPYPK3656F7HMWE.uasset",
+				"C:/Users/2404781/Documents/GitHub/Obstacle-Course/ObstacleCourse/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/2404781/Documents/GitHub/Obstacle-Course/ObstacleCourse/Content/Blueprints/NewActorComponent.uasset",
+				"C:/Users/2404781/Documents/GitHub/Obstacle-Course/ObstacleCourse/Content/Blueprints/NewBlueprint.uasset"
 			]
 		}
 	]
